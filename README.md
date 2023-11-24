@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Padtberg aka. Jakob
+- 👋 Hi, I’m @Padtberg
 - 👀 I’m interested in Video editing and Coding
 - 🌱 I’m currently learning to code Swift, Java and C#
 
