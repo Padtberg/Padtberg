@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Padtberg
 - 👀 I’m interested in Video editing and Coding
-- 🌱 I’m currently learning to code Swift, Java and C#
+- 🌱 I’m currently just have fun by try ou different thinks 
 
 <!---
 Padtberg/Padtberg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
